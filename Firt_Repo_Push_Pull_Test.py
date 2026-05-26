@@ -5,5 +5,7 @@ except EOFError:
 
 if visitor == "morning":
     print("Good Morning")
+elif visitor == "Afternoon":
+    print("Good Afternoon")
 else:
     print("Have a nice day")
