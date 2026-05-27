@@ -9,3 +9,4 @@ elif visitor == "Afternoon":
     print("Good Afternoon")
 else:
     print("Have a nice day")
+    print("Time for TVK")
