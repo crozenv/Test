@@ -4,5 +4,10 @@ if Hungry.lower() == "yes":
     print("You should eat pizza.")
     print("You should eat Burger.")
 else:
-    print("You should drink water.")
+    thursty=input("Are you thirsty? (yes/no) ")
+    if thursty.lower() == "yes": 
+        print("You should drink water.")
+         print("You should drink bakardi!!")
+    else:
+        print("Do your work.")
    
