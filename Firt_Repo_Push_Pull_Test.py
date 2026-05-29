@@ -10,4 +10,3 @@ elif visitor == "Afternoon":
 else:
     print("Have a nice day")
     print("Time for TVK")
-    print("Congresss leading")
