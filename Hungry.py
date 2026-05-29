@@ -7,10 +7,7 @@ else:
     thursty=input("Are you thirsty? (yes/no) ")
     if thursty.lower() == "yes": 
         print("You should drink water.")
-<<<<<<< HEAD
-         print("You should drink bakardi!!")
-=======
->>>>>>> thurstry
+        print("You should drink bakardi!!")
     else:
         print("Do your work.")
    
